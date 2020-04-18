@@ -1,5 +1,4 @@
 
-Project 
 ### Background
 The internet has given people anonymity in many cases and that has created ample opportunities for things to be said that many wouldn't normally be said face to face. Cyberbullying and other online forms of verbal abuse are very prevalent and can be extremely harmful. 
  
