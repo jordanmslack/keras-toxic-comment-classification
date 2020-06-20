@@ -10,7 +10,7 @@ I think that machine learning can and should be used for good, and this is an at
 The basis has been laid for starting to solve the problem filtering abusive content online, but there is much to be done to enhance this process and provide greater protection for platforms and users. 
  
  ### Data
-The data set includes ?a large number of Wikipedia comments which have been labeled by human raters for toxic behavior. The types of toxicity are: toxic, severe_toxic, obscene, threat,  insult, identity_hate." - Kaggle Data
+The data set includes a large number of Wikipedia comments which have been labeled by human raters for toxic behavior. The types of toxicity are: toxic, severe_toxic, obscene, threat,  insult, identity_hate." - Kaggle Data
 
 ### Solution
 The desired solution will be a "multi-headed model that?s capable of detecting different types of toxicity like threats, obscenity, insults, and identity-based hate". - Kaggle, Overview 
